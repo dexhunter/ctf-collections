@@ -24,6 +24,7 @@
 * [sqlmap]()
 * nmap
 * burp suite
+* [httpie](https://httpie.org)
 
 ## crypto
 
