@@ -25,6 +25,8 @@
 * nmap
 * burp suite
 * [httpie](https://httpie.org)
+* [metasploit](https://github.com/rapid7/metasploit-framework)
+  * msfvenom
 
 ## crypto
 
