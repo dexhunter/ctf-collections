@@ -1,0 +1,3 @@
+[submodule "write-ups/2019googlectf"]
+	path = write-ups/2019googlectf
+	url = git@github.com:dexhunter/2019googlectf.git
