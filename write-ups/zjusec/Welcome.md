@@ -113,11 +113,18 @@ TBC
 
 ## Reverse1
 
-TBC
+打开idapro7.0（需要x86 disassembler)，发现flag是一些数字xor12得到的。据此逆向（我很菜所以写了个python脚本）得到flag
+```
+n = [77,77,77,119,106,97,117,96,83,93,93,83,125,121,98,83,63,52,58,59,53,58,60,52,60,113]
+print(len(n))
+for i in range(26):
+    c = (n[i] ) ^ 12
+    print(chr(c), end="")
+```
 
 ## apk01 baby
 
-dex2jar + jd-gui 没有任何难度（
+根据提示使用dex2jar和jd-gui 
 
 ## Simple RSA
 
