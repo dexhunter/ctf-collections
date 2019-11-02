@@ -6,6 +6,7 @@
 
 * dex2jar
 * jd-gui
+* Androguard
 
 ## forensics
 
@@ -17,16 +18,18 @@
 
 * idapro
 * ghidra
+* angr
 
 ## web
 
-* [githack]()
-* [sqlmap]()
+* [githack](https://github.com/lijiejie/GitHack)
+* [sqlmap](https://github.com/sqlmapproject/sqlmap)
 * nmap
 * burp suite
 * [httpie](https://httpie.org)
 * [metasploit](https://github.com/rapid7/metasploit-framework)
   * msfvenom
+* Charles
 
 ## crypto
 
